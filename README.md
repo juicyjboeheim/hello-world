@@ -1,2 +1,1 @@
-# hello-world
-short description
+# election-data
